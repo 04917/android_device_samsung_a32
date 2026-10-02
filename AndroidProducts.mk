@@ -9,5 +9,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     lineage_a32-user \
-    lineage_a32-userdebug \
-    lineage_a32-eng
+    lineage_a32-userdebug

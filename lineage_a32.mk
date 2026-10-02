@@ -30,3 +30,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 BUILD_FINGERPRINT := samsung/a32xx/a32:13/TP1A.220624.014/A325FXXSCDYB2:user/release-keys
 
+# CharaROM maintainer identifier
+CHARA_MAINTAINER := Armaltheus
+
